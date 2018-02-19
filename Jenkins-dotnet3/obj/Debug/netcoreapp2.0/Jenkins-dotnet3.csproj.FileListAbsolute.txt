@@ -1,0 +1,11 @@
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\bin\Debug\netcoreapp2.0\Jenkins-dotnet3.deps.json
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\bin\Debug\netcoreapp2.0\Jenkins-dotnet3.runtimeconfig.json
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\bin\Debug\netcoreapp2.0\Jenkins-dotnet3.runtimeconfig.dev.json
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\bin\Debug\netcoreapp2.0\Jenkins-dotnet3.dll
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\bin\Debug\netcoreapp2.0\Jenkins-dotnet3.pdb
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.csprojResolveAssemblyReference.cache
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.csproj.CoreCompileInputs.cache
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.AssemblyInfoInputs.cache
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.AssemblyInfo.cs
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.dll
+c:\users\thavakkanic\Source\repos\Jenkins-dotnet3\Jenkins-dotnet3\obj\Debug\netcoreapp2.0\Jenkins-dotnet3.pdb
